@@ -3,6 +3,7 @@ EasyUO Userdefined Language file and API.
 
 http://www.easyuo.com/forum/viewtopic.php?p=302570
 
+```
 ;-------------------------------------------
 ; Script Name: Notepad++ EasyUO Userdefined Language file and API
 ; Author: EnCode
@@ -14,3 +15,4 @@ http://www.easyuo.com/forum/viewtopic.php?p=302570
 ; Public Release: 30/01/08
 ; Purpose: To help writing EasyUO Scripts with Notepad++ and with autocompletion
 ;-------------------------------------------
+```
